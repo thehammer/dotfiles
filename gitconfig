@@ -8,6 +8,5 @@
 [core]
   excludesfile = ~/.gitignore
 [user]
-  name = drew
-  email = drew@drewolson.org
-  signingkey = 9FA98BD6
+  name = hammer
+  email = hammer@hammersforge.com
