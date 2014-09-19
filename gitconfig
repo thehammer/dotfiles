@@ -9,4 +9,6 @@
   excludesfile = ~/.gitignore
 [user]
   name = hammer
-  email = hammer@hammersforge.com
+  email = hammer@fractalsurfing.com
+[push]
+	default = simple

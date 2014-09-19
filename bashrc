@@ -30,13 +30,13 @@ if [ -f ~/bt/system-scripts/pairing_stations/aliases ]; then
   source ~/bt/system-scripts/pairing_stations/aliases
 fi
 
-if [ -f `brew --prefix`/etc/bash_completion ]; then
-  source `brew --prefix`/etc/bash_completion
-fi
+#if [ -f `brew --prefix`/etc/bash_completion ]; then
+#  source `brew --prefix`/etc/bash_completion
+#fi
 
-if [ -f `brew --prefix git`/etc/bash_completion.d/git-completion.bash ]; then
-  source `brew --prefix git`/etc/bash_completion.d/git-completion.bash
-fi
+#if [ -f `brew --prefix git`/etc/bash_completion.d/git-completion.bash ]; then
+#  source `brew --prefix git`/etc/bash_completion.d/git-completion.bash
+#fi
 
 if [[ -s ~/.rvm/scripts/rvm ]]; then
   source ~/.rvm/scripts/rvm
