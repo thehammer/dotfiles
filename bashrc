@@ -1,7 +1,6 @@
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
 export EDITOR='emacs'
-export GREP_OPTIONS='--color=auto'
 
 alias ll='ls -la'
 

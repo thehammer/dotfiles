@@ -28,8 +28,6 @@ setopt INC_APPEND_HISTORY
 setopt HIST_IGNORE_DUPS
 setopt EXTENDED_HISTORY
 
-export GREP_OPTIONS='--color=auto'
-
 export ERL_AFLAGS="-kernel shell_history enabled"
 
 export PATH=/usr/local/bin:$PATH
